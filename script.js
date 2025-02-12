@@ -33,14 +33,14 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
+    "Pag sure ba",
+    "Please?",
+    "Think about it!",
     "If you say no, I will be really sad...",
     "I'm sad na...",
     "Ouch i am crying...",
     "Hays ok...",
-    "Just kidding, say yes please! ❤️"
+    "Joke lang, say yes please! ❤️"
 ];
 
 let messageIndex = 0;
