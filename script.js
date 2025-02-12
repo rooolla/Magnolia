@@ -34,11 +34,11 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Pag sure ba",
-    "Please?",
-    "Think about it!",
+    "Please?..",
+    "Just think about it!",
     "If you say no, I will be really sad...",
     "I'm sad na...",
-    "Ouch i am crying...",
+    "Ouch I am crying...",
     "Hays ok...",
     "Joke lang, say yes please! ❤️"
 ];
@@ -55,5 +55,7 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
+    window.location.href = "yes_page.html";
+}
     window.location.href = "yes_page.html";
 }
